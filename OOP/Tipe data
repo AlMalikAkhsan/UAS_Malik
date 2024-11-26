@@ -1,0 +1,8 @@
+Macam - macam Tipe Data :
+
+1. Integer adalah angka
+2. Array adalah data yg menggunakan integer atau elemen yg digunakan
+3. String adalah sekumpulan urutan karakter dan data untuk menyimpan teks
+4. Boolean adalah untuk menentukan (true) atau (false)
+5. character (char) digunakan untuk menyimpan satu huruf, angka, dan tanda baca
+6. Floating Point adalah angka desimal seperti 3,14
